@@ -1,6 +1,28 @@
-## 👩‍💻 About Me
-I'm studying at Alexandria University and I love tech
-and here's nyan cat
-![4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2](https://github.com/jomanaehabb/jomanaehabb/assets/69699199/d6455211-bfc7-42fa-a4b4-bed9d42acf0c)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
 
+        #nyanCat {
+            width: 100px; /* Set the initial width */
+            transition: width 0.5s ease; /* Add a transition for a smooth effect */
+        }
 
+        #nyanCat:hover {
+            width: 200px; /* Set the zoomed width on hover */
+        }
+    </style>
+</head>
+<body>
+    <img id="nyanCat" src="nyan-cat.gif" alt="Nyan Cat">
+</body>
+</html>
