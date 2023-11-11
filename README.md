@@ -1,2 +1,2 @@
-[![Nyan Cat](nyan-cat-thumbnail.png)](nyan-cat.gif)
+[![Nyan Cat](nyan-cat-thumbnail.png)](nyan cat.gif)
 
