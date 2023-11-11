@@ -1,1 +1,3 @@
-[![Nyan Cat](https://github.com/jomanaehabb/jomanaehabb/raw/main/assets/69699199/8c1528df-ef23-4e7c-a394-a2542597bbff)]
+<a href="nyan-cat.gif" target="_blank">
+  <img src="nyan-cat.gif" alt="Nyan Cat" width="600"/>
+</a>
